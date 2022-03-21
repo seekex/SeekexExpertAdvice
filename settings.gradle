@@ -1,0 +1,3 @@
+include ':mobilertc'
+include ':duo-navigation-drawer'
+include ':app'
